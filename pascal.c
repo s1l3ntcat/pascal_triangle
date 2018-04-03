@@ -54,7 +54,7 @@ main(int argc, char *argv[])
 
 	if (argc != 2) // Check for the correct number of arguments.
 	 {
-		fprintf(stderr, "Usage: ./pascal [row_num]\n"); // If not, then prunsigned long the usage format out.
+		fprintf(stderr, "Usage: ./pascal [row_num]\n"); // If not, then print the usage format out.
 		return -1;
 	 }
 
